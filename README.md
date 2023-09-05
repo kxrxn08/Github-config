@@ -20,5 +20,3 @@ Hello there,<br>I am Karan Patel. A second year student, pursuing Bachelor of 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kxrxn08&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
